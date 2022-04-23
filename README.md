@@ -8,8 +8,7 @@ Comecei muito cedo na música e com ela aprendi que a harmonia do conjunto na ma
 <br/>
 <br/>
 <br/>
-![Ivan-Mastrangelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Mastrangelo&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Mastrangelo&layout=compact&theme=tokyonight)](https://github.com/Ivan-Mastrangelo/github-readme-stats)
+![Ivan-Mastrangelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivan-Mastrangelo&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan-Mastrangelo&layout=compact&theme=tokyonight)](https://github.com/Ivan-Mastrangelo/github-readme-stats)
 <br/>
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width=50px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=45px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=45px />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=45px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=45px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=45px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=57px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=45px /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=45px />     
