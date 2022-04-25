@@ -1,7 +1,7 @@
 # Olá! Sou Ivan Mastrangelo Dias
 ## Seja bem vindo ao meu perfil do GitHub   :call_me_hand:
 
-Sou formado em Análise de Sistemas pela faculdade UNEB - de Brasília, fui CCNA por 6 anos. Sempre imerso no mundo da técnologia, estou migrando para o desenvolvimento WEB, cursando na escola Trybe. Nela já completaei as competências de Fundamentos e Front-End, sigo em Back-End, trabalhando para me tornar um desenvolvedor FullStack.
+Sou formado em Análise de Sistemas pela faculdade UNEB - de Brasília, fui CCNA por 6 anos. Sempre imerso no mundo da técnologia, estou migrando para o desenvolvimento de software, cursando na escola Trybe. Nela já completaei as competências de Fundamentos e Front-End, sigo em Back-End, trabalhando para me tornar um desenvolvedor FullStack.
 
 Sempre me reconstruindo, sou movido por desafios e espero encontrar soluções que ajudem às pessoas. Dentro do meu agir local almejo poder contribuir para a construção de um mundo melhor. Para tanto estou sempre empenhado a aprender novas técnologias e formas de interações com os demais, compartilhando conhecimentos e vivências.
 
