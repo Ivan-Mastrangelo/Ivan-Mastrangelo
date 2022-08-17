@@ -8,7 +8,7 @@ Sempre me reconstruindo, sou movido por desafios e espero encontrar soluções q
 
 <div align=right>
 <a href="https://www.linkedin.com/in/ivan-mastrangelo-dias/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50px />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=40px />
           </a> 
 </div>  
 
